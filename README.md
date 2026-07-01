@@ -18,12 +18,6 @@ Welcome to my GitHub profile! I'm an Information Science student and aspiring Fu
 
 ---
 
-## GitHub Stats  
-![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyush1457&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush1457&layout=compact&theme=radical)  
-
----
-
 ## 💼 Technologies & Expertise
 - **Full Stack Development:** React.js, Node.js, Express.js, MongoDB, REST APIs  
 - **Data Science & ML:** Python (Pandas, NumPy, Scikit-learn, Matplotlib), Machine Learning, Data Analysis  
