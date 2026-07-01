@@ -1,24 +1,24 @@
-# Hi 👋, I'm Piyush Kumar Sodhi  
+# Hi, I'm Piyush Kumar Sodhi  
 Welcome to my GitHub profile! I'm an Information Science student and aspiring Full Stack Developer passionate about building impactful applications, exploring new technologies, and solving real-world problems.  
 
 ---
 
-## 🚀 About Me
-- 🎓 B.Tech in Information Science & Engineering @ Acharya Institute of Technology (CGPA: 8.91)  
-- 🌱 Currently learning **Advanced React, GraphQL, and Cloud Computing**  
-- 💻 Hands-on experience in **Full Stack Development, Data Analysis, and Machine Learning**  
-- 📫 Reach me at: [piyushsodhi145@gmail.com](mailto:piyushsodhi145@gmail.com)  
+## About Me
+-  B.Tech in Information Science & Engineering @ Acharya Institute of Technology (CGPA: 8.91)  
+-  Currently learning **Advanced React, GraphQL, and Cloud Computing**  
+-  Hands-on experience in **Full Stack Development, Data Analysis, and Machine Learning**  
+-  Reach me at: [piyushsodhi145@gmail.com](mailto:piyushsodhi145@gmail.com)  
 
 ---
 
 ## 🔧 Languages & Tools  
 <p align="left">  
-<img src="https://skillicons.dev/icons?i=react,nodejs,python,java,javascript,mongodb,html,css,tailwind,git,github,aws,docker" />  
+<img src="https://skillicons.dev/icons?i=react,nodejs,python,javascript,mongodb,html,css,tailwind,git,github,aws,docker" />  
 </p>  
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 ![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyush1457&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush1457&layout=compact&theme=radical)  
 
@@ -33,13 +33,13 @@ Welcome to my GitHub profile! I'm an Information Science student and aspiring Fu
 
 ## 🚧 Featured Projects  
 
-### 🛒 [Rental Marketplace Web Application](https://github.com/piyush1457/rental-platform) *(2025)*   
+### [Rental Marketplace Web Application](https://github.com/piyush1457/rental-platform) *(2025)*   
 A full-featured rental platform to browse, search, and filter products (electronics, furniture, appliances).  
 
-### 🍴 [Food Explorer Platform](https://github.com/piyush1457/Food_Explorer) *(2025)*  
+### [Food Explorer Platform](https://github.com/piyush1457/Food_Explorer) *(2025)*  
 A product explorer app with advanced search, filtering, and nutrition-based sorting using OpenFoodFacts API.  
 
-### 🚗 [Smart Parking System](https://github.com/piyush1457/Project-SMART-PARKING-SYSTEM) *(2024)*  
+### [Smart Parking System](https://github.com/piyush1457/Project-SMART-PARKING-SYSTEM) *(2024)*  
 An IoT-based smart parking solution providing real-time parking availability & predictive analysis.  
 
 ---
