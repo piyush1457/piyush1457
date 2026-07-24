@@ -1,20 +1,49 @@
 # Hi, I'm Piyush Kumar Sodhi  
-Welcome to my GitHub profile! I'm an Information Science student and aspiring Full Stack Developer passionate about building impactful applications, exploring new technologies, and solving real-world problems.  
+Software Engineer with 1+ year of experience building production React, TypeScript, GraphQL, and Node.js applications.
+Currently building scalable full-stack systems while exploring AI-powered applications, Retrieval-Augmented Generation (RAG), and Human-AI Interaction.
+Open to Software Engineer, Frontend Engineer, and Full Stack Engineer opportunities.  
 
 ---
 
 ## About Me
--  B.Tech in Information Science & Engineering @ Acharya Institute of Technology (CGPA: 8.91)  
--  Currently learning **Advanced React, GraphQL, and Cloud Computing**  
--  Hands-on experience in **Full Stack Development, Data Analysis, and Machine Learning**  
+• Software Engineer @ Advertyzement Ltd.
+• Former Human-AI Research Intern @ IIT Gandhinagar
+• Built 4 production applications
+• React • TypeScript • GraphQL • Node.js
+• Building AI + Full Stack applications
+
+-  B.Tech in Information Science & Engineering @ Acharya Institute of Technology (CGPA: 9.03)  
 -  Reach me at: [piyushsodhi145@gmail.com](mailto:piyushsodhi145@gmail.com)  
 
 ---
 
 ## 🔧 Languages & Tools  
-<p align="left">  
-<img src="https://skillicons.dev/icons?i=react,nodejs,python,javascript,mongodb,html,css,tailwind,git,github,aws,docker" />  
-</p>  
+Frontend
+
+React
+TypeScript
+Next.js
+Tailwind
+
+Backend
+
+Node
+Express
+GraphQL
+MongoDB
+
+AI
+
+Python
+FastAPI
+LangChain
+OpenAI
+
+DevOps
+
+Docker
+GitHub Actions
+GCP
 
 ---
 
