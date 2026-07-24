@@ -1,25 +1,31 @@
 <h1 align="center">Hi 👋, I'm Piyush Kumar Sodhi</h1>
 
 <h3 align="center">
-Software Engineer • React • TypeScript • Node.js • GraphQL • AI Applications
+Software Engineer | React • TypeScript • Node.js • GraphQL • AI/ML
 </h3>
 
 <p align="center">
-Building scalable full-stack applications with modern web technologies and AI. Passionate about creating products that solve real-world problems through clean architecture, performance, and great user experience.
+Building production-grade full-stack applications with React, TypeScript, Node.js, and GraphQL. Passionate about AI-powered products, scalable backend systems, and solving real-world engineering problems.
 </p>
 
 <p align="center">
+
 <a href="https://piyushkumarsodhi.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 <a href="https://www.linkedin.com/in/piyush-kumar-sodhi-104b6b307/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:piyushsodhi145@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/piyush1457" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
+<a href="https://gitlab.com/piyush1457" target="_blank">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+</a>
+
 </p>
 
 ---
@@ -143,24 +149,27 @@ https://github.com/piyush1457/Expense_Sharing_Service
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <p align="center">
 
-<a href="https://piyushkumarsodhi.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
+<a href="https://piyushkumarsodhi.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
-<a href="https://www.linkedin.com/in/piyush-kumar-sodhi-104b6b307/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/piyush-kumar-sodhi-104b6b307/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:piyushsodhi145@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail"/>
+<a href="https://github.com/piyush1457" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://gitlab.com/piyush1457" target="_blank">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
 </a>
 
 </p>
-
 ---
 
 <p align="center">
