@@ -63,11 +63,7 @@ Building production-grade full-stack applications with React, TypeScript, Node.j
 <img src="https://skillicons.dev/icons?i=python,fastapi" />
 </p>
 
-- LangChain
-- OpenAI API
-- Retrieval-Augmented Generation (RAG)
-- OCR
-- Vector Databases
+Python • FastAPI • LangChain • OpenAI • RAG • OCR • Vector Databases
 
 ### DevOps & Tools
 
