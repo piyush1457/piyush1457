@@ -80,8 +80,8 @@ Python • FastAPI • LangChain • OpenAI • RAG • OCR • Vector Databases
 - ⚡ Reduced redundant GraphQL API calls by **30%**
 - 🧪 Wrote **50+ Jest unit & integration tests**
 - 📊 Automated data pipelines reducing manual work by **60%**
-- 🏅 Best Paper Award — ICCP 2026
-- 🎓 Human-AI Research Intern — IIT Gandhinagar
+- 🏅 Best Paper Award - ICCP 2026
+- 🎓 Human-AI Research Intern - IIT Gandhinagar
 - ☁️ Google Cloud Platform Certified
 
 ---
