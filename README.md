@@ -88,7 +88,7 @@ Python • FastAPI • LangChain • OpenAI • RAG • OCR • Vector Databases
 
 # ⭐ Featured Projects
 
-## 📄 DocAiApp — AI Powered Document & Multimedia Q&A
+## 📄 DocAiApp - AI Powered Document & Multimedia Q&A
 
 AI-powered Retrieval-Augmented Generation (RAG) application that enables conversational Q&A over PDFs, DOCX, audio and video files.
 
